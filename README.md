@@ -36,4 +36,4 @@ staged so the SSD and network work on first boot.
 
 ## Get in touch
 
-Open an issue on any of my repos, or connect through GitHub.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cdlundholm-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cdlundholm)
