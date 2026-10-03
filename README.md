@@ -10,7 +10,7 @@ cause, and then automate the fix so nobody has to do it by hand again.
 
 About five years in IT, from enterprise help desk to hands-on systems administration
 across hybrid **Active Directory / Entra ID**, **Intune**, **Microsoft 365**, **Azure**
-and **AWS**. Before IT I served as an Army Military Police officer (Operation Iraqi
+and **AWS**. Before IT I served in the Army as Military Police (Operation Iraqi
 Freedom) and spent a decade investigating insurance claims, so root-causing problems
 under pressure is a habit, not a buzzword.
 
