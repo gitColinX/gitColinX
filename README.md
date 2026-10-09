@@ -3,7 +3,9 @@
 **IT Support Engineer / Systems Administrator · U.S. Army Veteran**\
 Denver, Colorado · Bilingual (English / Spanish) · CISSP · GIAC GSEC / GCIH
 
-I'm the only on-site IT engineer at BKV Corporation's Denver headquarters, supporting about 1,100 Intune-managed endpoints and 430+ AWS WorkSpaces. I've been in IT about five years. Before IT I spent eight years investigating insurance claims, and before that I served in the Army as Military Police (Operation Iraqi Freedom).
+I'm the only on-site IT engineer at a Corporation's headquarters, supporting about 1,100 Intune-managed endpoints and 430+ AWS WorkSpaces. I've been in IT about five years. Before IT I spent nearly a decade investigating insurance claims, and before that I served in the Army as an MP (police officer) in OIF (Operation Iraqi Freedom). Prior to enlisting in the Army, I had previously started my first college program at 17 studying Computers. I've always been a tinkerer and "IT guy", naturally drawn to technology since I first experienced the sound of a 56k dial-up modem and desktop monstrosities of computers in the late 90s. Only when COVID happened did I finally get a chance to "career reset" and pursue my passion of technology. And now, with the advent of AI, I feel we are on the edge of a new frontier and evolutionary leap in technology that some never get a lifetime to witness, and I feel blessed to be here. I continue to seek advancement in my IT career, learning and growing and taking on any problem thrown my way.
+
+My philosophy is that it's best to see problems as new challenges. There is nothing more satisfying than solving an issue or problem you didn't have any knowledge of when you accepted that task or project. With every problem you solve (and I don't mean cheap workarounds and band-aid fixes), you become a tiny bit better in what you do.
 
 ## Projects
 
