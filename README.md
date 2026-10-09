@@ -1,7 +1,7 @@
 # Hi, I'm Colin 👋
 
 **IT Support Engineer / Systems Administrator · U.S. Army Veteran**\
-Denver, Colorado · Bilingual (English / Spanish) · CISSP · GIAC GSEC / GCIH
+Denver, Colorado · Bilingual (English / Spanish) · Endpoint, Identity & Cloud Admin (Intune, Entra, M365, Azure, AWS, AI) | Veteran | GFACT,  GSEC, GCIH, AZ-104, MD-102, Sec+, Net+, Cloud+, Linux+, ServiceNow | Open To Work
 
 I'm the only on-site IT engineer at a Corporation's headquarters, supporting about 1,100 Intune-managed endpoints and 430+ AWS WorkSpaces. I've been in IT about five years. Before IT I spent nearly a decade investigating insurance claims, and before that I served in the Army as an MP (police officer) in OIF (Operation Iraqi Freedom). Prior to enlisting in the Army, I had previously started my first college program at 17 studying Computers. I've always been a tinkerer and "IT guy", naturally drawn to technology since I first experienced the sound of a 56k dial-up modem and desktop monstrosities of computers in the late 90s. Only when COVID happened did I finally get a chance to "career reset" and pursue my passion of technology. And now, with the advent of AI, I feel we are on the edge of a new frontier and evolutionary leap in technology that some never get a lifetime to witness, and I feel blessed to be here. I continue to seek advancement in my IT career, learning and growing and taking on any problem thrown my way.
 
