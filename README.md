@@ -17,10 +17,11 @@ The first five come from my current job, rewritten for GitHub with no company da
 - [kb-to-agent-corpus](https://github.com/gitColinX/kb-to-agent-corpus) - I exported our ServiceNow knowledge base (778 articles, about 15,300 attachments) into Markdown that Claude Code searches first and cites.
 - [intune-endpoint-engineering](https://github.com/gitColinX/intune-endpoint-engineering) - Intune Remediations and Win32 packaging scripts. I used them to trace a failing RMM agent install back to my own scripts renaming the vendor's MSI.
 
-Two personal projects:
+Three personal projects:
 
 - [usb-builder](https://github.com/gitColinX/usb-builder) - PowerShell that builds a Windows 11 installer USB with Dell drivers, without Rufus.
 - [blackarch-over-ssh](https://github.com/gitColinX/blackarch-over-ssh) - I installed BlackArch Linux on a Dell laptop over SSH from a Windows PC, with Claude Code as the operator.
+- [job-search-ledger](https://github.com/gitColinX/job-search-ledger) - A local, privacy-first Streamlit job tracker I built during my own search, with pay charts, a weekly work search log and 7 themes including Colorblind Safe and High Contrast.
 
 ## How I work with AI
 
