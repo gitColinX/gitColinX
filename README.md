@@ -17,6 +17,10 @@ The first five come from my current job, rewritten for GitHub with no company da
 - [kb-to-agent-corpus](https://github.com/gitColinX/kb-to-agent-corpus) - I exported our ServiceNow knowledge base (778 articles, about 15,300 attachments) into Markdown that Claude Code searches first and cites.
 - [intune-endpoint-engineering](https://github.com/gitColinX/intune-endpoint-engineering) - Intune Remediations and Win32 packaging scripts. I used them to trace a failing RMM agent install back to my own scripts renaming the vendor's MSI.
 
+Open source contributions:
+
+- [omarchy-mobile](https://github.com/gitColinX/omarchy-mobile) - I contribute to [Omarchy Mobile](https://omamobile.org) on my Pixel 8 Pro, with merged upstream PRs for device notes, suspend-to-idle, Bluetooth and haptics firmware, and kernel RTC and sleep defaults ([#552](https://github.com/derekross/omarchy-mobile/pull/552), [#656](https://github.com/derekross/omarchy-mobile/pull/656), [#722](https://github.com/derekross/omarchy-mobile/pull/722), [kernel #243](https://github.com/derekross/linux-omarchy-mobile/pull/243), [#244](https://github.com/derekross/linux-omarchy-mobile/pull/244)).
+
 Four personal projects:
 
 - [opnsense-unifi-network-playbook](https://github.com/gitColinX/opnsense-unifi-network-playbook) - I rebuilt my home network on a used Lenovo Tiny running OPNsense with UniFi Wi-Fi, using Claude Code over SSH and REST APIs: IDS, ad blocking, IoT and guest VLANs, Tailscale, and 2.3 Gbps with upload lag cut from 121 to 24 ms.
