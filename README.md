@@ -23,6 +23,12 @@ Four personal projects:
 
 ## Right now: Omarchy Mobile on my Pixel 8 Pro
 
+<p align="center">
+  <img src="assets/omarchy-home.png" width="270" alt="Home screen of Omarchy Mobile on a Pixel 8 Pro, with a system card reading Omarchy, Google Pixel 8 Pro, kernel 7.3.0">
+  &nbsp;&nbsp;
+  <img src="assets/omarchy-apps.png" width="270" alt="App list of Omarchy Mobile on a Pixel 8 Pro">
+</p>
+
 [Omarchy Mobile](https://omamobile.org) puts Omarchy, a ready-made Linux desktop built on Arch Linux and the Hyprland window manager, on a phone in place of Android, running on the standard Linux kernel instead of Google's Android kernel. It is [Derek Ross's project](https://github.com/derekross/omarchy-mobile).
 
 The Pixel 8 Pro port is a community port. Other contributors wrote most of the kernel drivers; my spare 8 Pro is the third phone testing it, and I contribute test results, firmware tooling and a few small fixes. I run every change on the real phone from a Windows PC over USB and SSH, with Claude Code as the operator. I approve every install to the phone and everything posted to GitHub myself.
