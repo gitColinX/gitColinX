@@ -9,17 +9,17 @@ My philosophy is that it's best to see problems as new challenges. There is noth
 Many come from my live production environments but safely and securely scoped and rewritten here for GitHub with no company or sensitive data.
 
 - [m365-graph-agent-ops](https://github.com/gitColinX/m365-graph-agent-ops) - PowerShell tools I used with Claude Code to do Entra ID, Intune and Exchange Online admin work through Microsoft Graph.
-- [ai-ops-agent-workspace](https://github.com/gitColinX/ai-ops-agent-workspace) - One set of instruction files that Claude Code, Codex and Warp all read, so I can switch tools in the middle of a ticket.
-- [servicenow-claude-mcp](https://github.com/gitColinX/servicenow-claude-mcp) - Node scripts I used to work ServiceNow tickets from Claude Code through my own OAuth sign-in. I used them to reconcile 860 managed-device serials against 1,078 asset records.
-- [kb-to-agent-corpus](https://github.com/gitColinX/kb-to-agent-corpus) - I exported our ServiceNow knowledge base (778 articles, about 15,300 attachments) into Markdown that Claude Code searches first and cites.
-- [intune-endpoint-engineering](https://github.com/gitColinX/intune-endpoint-engineering) - Intune Remediations and Win32 packaging scripts. I used them to trace a failing RMM agent install back to my own scripts renaming the vendor's MSI.
+- [ai-ops-agent-workspace](https://github.com/gitColinX/ai-ops-agent-workspace) - One set of instruction files that Claude Code, Codex and Warp all read, so I can switch tools in the middle of a support issue or project.
+- [servicenow-claude-mcp](https://github.com/gitColinX/servicenow-claude-mcp) - Node scripts I used to work ServiceNow tickets from Claude Code direct through OAuth sign-in. I used them to reconcile 860 managed-device serials against 1,078 asset records in one engagement.
+- [kb-to-agent-corpus](https://github.com/gitColinX/kb-to-agent-corpus) - I was able to export the entire ServiceNow knowledge base (778 articles, about 15,300 attachments) into Markdown files so AI agents i.e. Claude Code searches first and cites.
+- [intune-endpoint-engineering](https://github.com/gitColinX/intune-endpoint-engineering) - Intune Remediations and Win32 packaging scripts. For example, I traced a failing RMM agent install back to my own scripts renaming the vendor's MSI and resolve.
 
 Handful of ever growing personal projects:
 
-- [opnsense-unifi-network-playbook](https://github.com/gitColinX/opnsense-unifi-network-playbook) - I rebuilt my home network on a used Lenovo Tiny running OPNsense with UniFi Wi-Fi, using Claude Code over SSH and REST APIs: IDS, ad blocking, IoT and guest VLANs, Tailscale, and 2.3 Gbps with upload lag cut from 121 to 24 ms.
-- [usb-builder](https://github.com/gitColinX/usb-builder) - PowerShell that builds a Windows 11 installer USB with Dell drivers, without Rufus.
-- [blackarch-over-ssh](https://github.com/gitColinX/blackarch-over-ssh) - I installed BlackArch Linux on a Dell laptop over SSH from a Windows PC, with Claude Code as the operator.
-- [job-search-ledger](https://github.com/gitColinX/job-search-ledger) - A local, privacy-first Streamlit job tracker I built during my own search, with pay charts, a weekly work search log and 7 themes including Colorblind Safe and High Contrast.
+- [opnsense-unifi-network-playbook](https://github.com/gitColinX/opnsense-unifi-network-playbook) - I rebuilt my home network on a used, overpowered Lenovo Tiny running firewall and routing software (OPNsense) with UniFi network equipment, using Claude Code over SSH and REST APIs: IDS, ad blocking, IoT and guest VLANs, Tailscale, 2.3 Gbps down w/ upload lag cut from 121 to 9ms.
+- [usb-builder](https://github.com/gitColinX/usb-builder) - PowerShell that builds a Windows 11 installer USB with manufacturer specific (Dell) drivers already bundled, without needing a third party tool like Rufus.
+- [blackarch-over-ssh](https://github.com/gitColinX/blackarch-over-ssh) - Getting a more complicated OS deployment BlackArch Linux setup on a Dell laptop over SSH from a Windows PC, with Claude Code operating under gated and scoped authority.
+- [job-search-ledger](https://github.com/gitColinX/job-search-ledger) - A local, privacy-first Streamlit job tracker I built during job searching, with pay charts, original job descriptions, company info, interview tracking, contact info, a weekly work search log and 7 themes including Colorblind Safe and High Contrast.
 
 ## Right now: Omarchy Mobile on my Pixel 8 Pro
 
