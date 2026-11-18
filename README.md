@@ -6,7 +6,7 @@ My philosophy is that it's best to see problems as new challenges. There is noth
 
 ## Projects
 
-The first five come from my current job, rewritten for GitHub with no company data.
+Many come from my live production environments but safely and securely scoped and rewritten here for GitHub with no company or sensitive data.
 
 - [m365-graph-agent-ops](https://github.com/gitColinX/m365-graph-agent-ops) - PowerShell tools I used with Claude Code to do Entra ID, Intune and Exchange Online admin work through Microsoft Graph.
 - [ai-ops-agent-workspace](https://github.com/gitColinX/ai-ops-agent-workspace) - One set of instruction files that Claude Code, Codex and Warp all read, so I can switch tools in the middle of a ticket.
@@ -14,7 +14,7 @@ The first five come from my current job, rewritten for GitHub with no company da
 - [kb-to-agent-corpus](https://github.com/gitColinX/kb-to-agent-corpus) - I exported our ServiceNow knowledge base (778 articles, about 15,300 attachments) into Markdown that Claude Code searches first and cites.
 - [intune-endpoint-engineering](https://github.com/gitColinX/intune-endpoint-engineering) - Intune Remediations and Win32 packaging scripts. I used them to trace a failing RMM agent install back to my own scripts renaming the vendor's MSI.
 
-Four personal projects:
+Handful of ever growing personal projects:
 
 - [opnsense-unifi-network-playbook](https://github.com/gitColinX/opnsense-unifi-network-playbook) - I rebuilt my home network on a used Lenovo Tiny running OPNsense with UniFi Wi-Fi, using Claude Code over SSH and REST APIs: IDS, ad blocking, IoT and guest VLANs, Tailscale, and 2.3 Gbps with upload lag cut from 121 to 24 ms.
 - [usb-builder](https://github.com/gitColinX/usb-builder) - PowerShell that builds a Windows 11 installer USB with Dell drivers, without Rufus.
